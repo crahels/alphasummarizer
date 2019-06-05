@@ -1,0 +1,31 @@
+{% extends "index.html" %}
+
+{% block inner_content %}
+<div class="result-container">
+    <div class="row-result-container">
+        <div class="label-container">
+        </div>
+        
+        <div class="summary-content-container">
+            <div class="cand-container">
+                <label class="control-label" for="cand-summary">Candidate Summary:</label>
+                <textarea class="form-control no-gray" rows="12" id="cand-summary" readonly>{{ cand_summary }}</textarea>
+            </div>
+            <div class="ref-container">
+                <label class="control-label" for="ref-summary">Reference Summary:</label>
+                <textarea class="form-control no-gray" rows="12" id="ref-summary" readonly>{{ ref_summary }}</textarea>
+            </div>
+        </div>
+    </div>
+
+    <div class="row-rouge-container">
+        <div class="label-rouge-container">
+            <label class="control-label" for="rouge">ROUGE-2 Recall:</label>
+        </div>
+
+        <div class="content-container">
+            {{ rouge_2 }}
+        </div>
+    </div>
+</div>
+{% endblock %}

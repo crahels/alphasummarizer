@@ -1,0 +1,83 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="root-container">
+    <form class="form-horizontal">
+        <div class="row-container">
+            <div class="label-container">
+                <label class="control-label" for="summary-type">Summary Type:</label>
+            </div>
+            
+            <div class="content-container">
+                <select class="form-control" id="summary-type">
+                    <option>100</option>
+                    <option>200</option>
+                </select>
+            </div>
+        </div>
+        <div class="row-container">
+            <div class="label-container">
+                <label class="control-label" for="topic">Topic:</label>
+            </div>
+            <div class="content-container"> 
+                <select class="form-control" id="topic">
+                    <option value="b-salah-darat">Salah Darat</option>
+                    <option value="c-gedung-roboh">Gedung Roboh</option>
+                    <option value="d-indo-fuji">Indo Fuji</option>
+                    <option value="f-bunuh-diri">Bunuh Diri</option>
+                    <option value="g-gempa-dieng">Gempa Dieng</option>
+                </select>
+            </div>
+        </div>
+        <div class="row-container">
+            <div class="label-container">
+                <label class="control-label" for="model">Model:</label>
+            </div>
+            <div class="content-container"> 
+                <select class="form-control" id="model">
+                    <option value="best-model-10">best-model-10</option>
+                    <option value="best-model-4">best-model-4</option>
+                    <option value="default-10">default-10</option>
+                    <option value="default-4">default-4</option>
+                    <option value="Khan-10">Khan-10</option>
+                    <option value="Khan-4">Khan-4</option>
+                </select>
+            </div>
+        </div>
+        <div class="row-container"> 
+            <div class="label-container"></div>
+            <div class="content-button-container">
+                <button type="submit" class="btn btn-info" id="button-summary">
+                    Generate Summary
+                </button>
+            </div>
+        </div>
+    </form>
+    <input type="hidden" id="summary-type-input" name="summary-type-input" value="{{ summary_type }}">
+    <input type="hidden" id="topic-input" name="topic-input" value="{{ topic }}">
+    <input type="hidden" id="model-input" name="model-input" value="{{ model }}">
+    {% block inner_content %}
+    {% endblock %}
+</div>
+{% endblock %}
+
+{% block javascript %}
+<script type="text/javascript">
+    $(document).ready(function() {
+        $('#button-summary').click(function(e) {
+            event.preventDefault();
+            var summary_type = $('#summary-type').find(":selected").val();
+            var topic = $('#topic').find(":selected").val();
+            var model = $('#model').find(":selected").val();
+            window.location.replace("/result?summary_type=" + summary_type + 
+            "&topic=" + topic + "&model=" + model);
+        });
+    });
+    var summary_type = $('#summary-type-input').val();
+    var topic = $('#topic-input').val();
+    var model = $('#model-input').val();
+    $('#summary-type').val(summary_type)
+    $('#topic').val(topic)
+    $('#model').val(model)
+</script>
+{% endblock %}

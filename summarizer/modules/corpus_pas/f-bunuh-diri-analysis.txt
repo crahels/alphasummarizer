@@ -1,0 +1,232 @@
+Mistakes:
+
+Seorang lelaki tengah baya nekat mengakhiri hidupnya di tengah kepadatan lalu lintas Jalan Asia Afrika dengan menjatuhkan diri dari megatron jembatan penyebarangan di depan Pos Giro Besar Bandung, Bandung, Jumat (1/7/2016).
+"nekat" seharusnya verb bukan subj
+"Bandung , Jumat ( 1/7/2016 ) " tidak dapat dideteksi sbg loc dan tmp namun dideteksi sbg adj
+
+Sebelumnya, lelaki yang belum diketahui identitasnya itu sempat naik dan nongkrong di atas megatron jembatan penyebrangan di atas Jalan Asia Afrika depan kantor Pos besar Bandung sejak pukul 11.00 WIB.
+"sebelumnya" adj bukan verb
+"sejak pukul 11.00 WIB" tidak dideteksi sbg tmp namun sbg bagian dr loc
+
+Akibat ulah lelaki tersebut, arus lalu lintas dari Jalan Asia Afrika menuju Jalan Sudirman sempat macet karena banyaknya warga yang menonton di pinggir jalan.
+"lalu" bukan adj tp bagian dari subj
+
+Sudah beberapa lama, lelaki tersebut kemudian sempat duduk.
+"Sudah beberapa lama" seharusnya tmp bukan o
+
+Namun akibat terlalu lama duduk di atas megatrone, tiba-tiba lelaki itu jatuh menghujam jalan aspal dengan kepala terlebih dahulu.
+"tiba-tiba" bukan verb tapi adj
+
+Saat badan lelaki itu melayang, gema takbir warga di pinggir jalan berkumandang.
+salah semua satu kalimat (gagal mendeteksi mana anak kalimat)
+
+Sementara, sebagian petugas lagi mengatur lalu lintas dan arus lalu lintas diarahkan ke Jalan Banceuy Bandung.
+"lagi" bagian dari subj bukan verb
+"lalu lintas" merupakan objek
+
+Pengguna Jalan Asia Afrika Kota Bandung dibuat gempar dengan aksi seorang lelaki yang melompat dari atas jembatan penyeberangan, Jumat, 1 Juli 2016.
+"gempar" adalah adj bukan obat
+"Jumat , 1 Juli 2016 ." adalah tmp bukan adj
+
+Peristiwa nahas tersebut terjadi tepat ketika pengeras suara Masjid Raya Bandung mengumandangkan azan dzuhur.
+"tepat" adalah bagian dr tmp bukan o
+
+Berdasarkan laporan Galamedianews, lelaki yang belum diketahui identitasnya itu sempat naik dan duduk di atas megatron JPO depan Gedung Kantor Pos Besar tersebut, pukul 11.00 WIB.
+"pukul 11.00 WIB ." harusnya tmp bukan loc
+
+Namun, lelaki tua tersebut tidak mau turun dan mencoba melawan petugas.
+"melawan" adalah verb bukan adj
+"petugas" adalah obj bukan adj
+
+Tak lama, lelaki paruh baya itu pun duduk dan melompat sampai jatuh ke aspal dengan posisi kepala menyentuh aspal lebih dulu.
+"tak lama" tmp bukan o
+"pun" subj bukan verb
+"sampai jatuh ke aspal dengan posisi kepala menyentuh aspal lebih dulu" adj bukan tmp
+
+Arus lalu lintas pun sempat macet karena selain pengemudi yang sedang melaju ke arah Jalan Sudirman, pejalan kaki dan warga mengerubuti lokasi jatuhnya lelaki tersebut.
+"lalu" bagian dari subj bukan adj 
+
+Sementara sebagian petugas lagi mengarahkan pengemudi agar memutar ke Jalan Banceuy.
+"lagi" subj bukan verb
+
+Seorang pria paruh baya tanpa identitas nekat bunuh diri di jembatan penyebrangan orang (JPO) yang berada dekat Alun-alun Kota Bandung, Jumat (1/7).
+"nekat" bagian dari subj bukan verb
+" Jumat ( 1/7 ) " tmp bukan bagian dari loc
+
+Saksi mata yang merupakan anggota linmas Satpol PP Kota Bandung, Sudirman mengatakan, pria itu diperkirakan berumur 50 tahunan.
+"pria itu diperkirakan berumur 50 tahunan " tidak berhasil dideteksi sebagai anak kalimat
+
+Pelaku berada di atas billboard yang tertempel di JPO selama satu jam sebelum akhirnya jatuh ke aspal jalan.
+"selama satu jam sebelum akhirnya jatuh ke aspal jalan ." tmp bukan loc
+
+Sudirman menuturkan, sebelum shalat jumat, pelaku sudah berada di atas JPO.
+"pelaku sudah berada di atas JPO" anak kalimat tidak terdeteksi
+
+Ia menyebutkan, sebelum jatuh, pelaku sempat meminta kertas dan pulpen.
+"pelaku sempat meminta kertas dan pulpen" tidak terdeteksi sebagai anak kalimat
+
+Yang kemudian diberikan oleh Sudirman saat mencoba naik untuk membujuk pelaku agar turun.
+"Yang kemudian" adj bukan subj & verb
+
+Namun, sesaat kemudian pelaku sudah jatuh ke aspal jalan.
+"sesaat kemudian" tmp bukan verb
+
+Ia menyebutkan, mengenakan pakaian putih dan celana biru, pria itu jatuh dengan posisi tengkurap.
+"mengenakan pakaian putih dan celana biru" adj bukan anak kalimat
+
+Seorang warga asal Kebumen, Ciptadi (54), tewas seketika setelah melompat dari jembatan penyeberangan orang (JPO) yang terletak di Jalan Asia Afrika, Kota Bandung.
+"seketika" bagian dari verb bukan obj
+
+Dugaan sementara, pria paruh baya itu nekat mengakhiri hidupnya lantaran stres.
+"Dugaan sementara" adj bukan subj
+
+Salah seorang saksi mata, Sudirman (59) menuturkan kronologi kejadian yaitu sekitar pukul 12.00 WIB, korban yang mengenakan kaos putih dan celana training itu menaiki anak tangga JPO seperti warga lainnya.
+"korban yang mengenakan kaos putih dan celana training itu menaiki anak tangga JPO seperti warga lainnya " anak kalimat tidak diprediksi
+
+Namun, sambung dia, Ciptadi tiba-tiba menaiki bagian atas JPO atau tepatnya di belakang megatron.
+"atau tepatnya di belakang megatron" bagian dr obj bukan kalimat conj
+
+Lebih lanjut, Sudirman mengatakan, upaya membujuk Ciptadi untuk turun sempat berhasil dilakukan petugas.
+"Lebih lanjut " adj bukan o
+"sempat berhasil dilakukan petugas " tidak terdeteksi sbg verb obj
+
+Pria tersebut mau turun dari bagian atap secara perlahan.
+"secara perlahan " tidak terdeteksi full sbg adj
+
+Akan tetapi, ujar dia, saat menuruni anak tangga pada bagian atap JPO, tubuh Ciptadi jatuh dari ketinggian 10 meter.
+"Akan tetapi " adj
+"tubuh Ciptadi jatuh dari ketinggian 10 meter " tidak terdeteksi sbg anak kalimat
+
+Kepala Ciptadi luka parah.
+"parah" bagian dr verb bukan o
+
+Mayat Ciptadi langsung dibawa oleh mobil patroli Polsek Regol ke Rumah Sakit Hasan Sadikin (RSHS) Bandung.
+"ke Rumah Sakit Hasan Sadikin ( RSHS ) Bandung " harusnya loc bukan adj
+
+Seorang saksi mata menyatakan, sebelum melompat dari atas jembatan penyeberangan Jalan Asia Afrika, Jumat, 1 Juli 2016, pria misterius membuat pesan dulu.
+"dulu" bukan obj tp adj
+
+Rezha Noviana (27), warga Kota Bandung mengatakan, ia dan jemaat lainnya langsung memperhatikan megatron jembatan penyeberangan orang depan Kantor Pos Besar Bandung setelah bubar salat Jumat di Masjid Raya Bandung.
+"ia dan jemaat lainnya" subj semua (salah sedikit)
+
+Lalu, petugas berseragam linmas memberinya air untuk minum, kertas dan pulpen.
+"air untuk minum , kertas dan pulpen " obj semua tidak ada adj
+
+Warga berbondong-bondong mendekat ke tubuh pria yang telah telungkup di aspal dengan darah bersimbah di sekitar kepala dan sebagian badan.
+"berbondong-bondong" bagian dari verb bukan subj
+
+Mayoritas pengguna jalan sibuk mengabadikan gambar kejadian tersebut melalui telefon seluler masing-masing.
+"sibuk" bagian dari verb bukan subj
+
+Seorang pria yang nekat terjun bebas dari megatron jembatan penyebrangan orang (JPO) di Jalan Asia Afrika atau depan PT Pos Indonesia, dengan ketinggian diperkirakan mencapai 15 meter, diketahui bernama Ciptadi (54) dan tercatat sebagai warga Kampung Lemahduhur, RT 02/RW 06 Kelurahan Lemahduhur, Kecamatan Kuwarasa, Kabupaten Kebumen, Jateng.
+deteksi subj tidak lengkap karena terlalu panjang sehingga parser salah
+
+Masih dikatakan Dede, korban melakukan aksi nekatnya itu sekitar pukul 12.45 WIB, setelah salat Jumat.
+"Masih dikatakan Dede" verb subj bukan adj
+
+Bahkan, sebelum dirinya lompat dari atas megatron PJU itu, korban sempat dibujuk oleh petugas Satpol PP Kota Bandung yang sedang bertugas di sekitaran lokasi kejadian.
+"sebelum dirinya lompat dari atas megatron PJU itu " tmp bukan adj
+
+Akan tetapi, dalam perjalanan menuju RS Hasan Sadikin, korban meninggal.
+"dalam perjalanan menuju RS Hasan Sadikin " tmp bukan adj
+
+Berdasarkan laporan yang didapat di lapangan, lanjut Dede, korban merupakan tunawisma karena tidak memiliki tempat tinggal atau kerabat di Kota Bandung.
+"lanjut Dede" verb obj bukan keterangan
+"karena tidak memiliki tempat tinggal atau kerabat di Kota Bandung " adj bukan obj
+
+Bahkan dari keterangan saksi yang didapat informasinya dari anggota, korban diduga mengalami stres.
+"dari keterangan saksi yang didapat informasinya dari anggota" adj bukan loc
+
+Mudah-mudahan, lanjut Dede, pihaknya menemukan keluarga yang sesuai dengan di KTP korban sehingga akan terkuak penyebabnya.
+"lanjut Dede" verb obj
+
+Seorang saksi mata, Rezha Noviana (27) mengatakan, ia dan warga lainnya langsung memperhatikan megatron JPO di depan Kantor Pos Besar Bandung tersebut setelah bubar salat Jumat di Masjid Raya Bandung.
+"ia dan warga" subj semua 
+
+Jalan Asia-Afrika Kota Bandung mendadak geger, pada Jumat (1/7/2016) siang.
+"mendadak geger" verb semua
+
+Meski masih sempat bernafas saat kepalanya terbentur keras ke aspal, namun nyawanya tidak tertolong saat akan dibawa ke Rumah Sakit Hasan Sadikin (RSHS) Bandung.
+"namun nyawanya tidak tertolong" tidak terdeteksi subj dan verb
+
+Berdasarkan informasi yang dihimpun merdeka.com di lokasi, pria asal Kebumen tersebut sudah naik ke JPO yang berada di depan PT Pos sekitar pukul 12.00 WIB saat orang tengah melaksanakan ibadah salat Jumat.
+"sekitar pukul 12.00 WIB saat orang tengah melaksanakan ibadah salat Jumat " merupakan tmp bukan bagian dari loc
+
+Namun beberapa saat kemudian Ciptadi menaiki megatron.
+"beberapa saat kemudian" tmp bukan adj dan verb
+
+Di saat itulah orang sekitar mulai khawatir.
+"Di saat itulah" tmp bukan loc
+"mulai khawatir" seluruhnya adj
+
+Dia menuturkan, bersama petugas kepolisian sempat membujuk turun korban.
+"sempat membujuk" verb bukan adj
+
+Menurut Dr. dr. Nurmiati Amir, Sp.KJ (K), psikiater dari RSCM, saat mendengar akan ada aksi bunuh diri, kita jangan tinggal diam.
+"psikiater dari RSCM" baguan dari adj bukan subj
+"diam" bagian dari verb
+
+Dalam seminar dijelaskan, salah satu kondisi yang sering mendorong orang melakukan bunuh diri adalah gangguan bipolar (GB).
+"salah satu kondisi yang sering mendorong orang melakukan bunuh diri adalah gangguan bipolar ( GB ) " bagian dari kalimat
+
+Menurutnya, sebanyak 25%-60% penderita gangguan bipolar pernah melakukan usaha bunuh diri, satu kali dalam kehidupannya.
+"satu kali dalam kehidupannya" merupakan tmp bukan adj
+
+Aksi bunuh diri di Alun-alun Bandung belum lama ini terjadi, seorang pria tua nekat menjatuhkan diri dari JPO alias jembatan penyebrangan orang yang letaknya tak jauh dari Alun-alun Kota Bandung.
+"seorang pria tua nekat menjatuhkan diri dari JPO alias jembatan penyebrangan orang yang letaknya tak jauh dari Alun-alun Kota Bandung " anak kalimat
+
+Pria tua ini jatuh dari ketinggian sekitar 10 hingga 15 meter.
+"sekitar 10 hingga 15 meter " bagian dari loc
+
+Sudirman, anggota Linmas Satpol PP Kota Bandung yang menjadi saksi mata aksi bunuh diri di Alun-alun Bandung itu mengatakan, pria tersebut diperkirakan berusia 50 tahun.
+"bunuh diri di Alun-alun Bandung itu" bagian dari subj bukan adj
+
+Sebelum akhirnya bunuh diri dengan cara menjatuhkan diri ke aspal, pria malang itu sebelumnya sudah berada di billboard yang terpasang di JPO kurang lebih satu jam lamanya.
+"kurang lebih satu jam lamanya" merupakan tmp bukan bagian dari loc
+
+Sudirman pun menerangkan, sebelum aksi bunuh diri di Alun-alun Bandung itu terjadi, pria itu sempat meminta pulpen dan kertas.
+salah keseluruhan kalimat
+
+Namun, saat dirinya naik dan berusaha memenuhi keinginan korban serta membujuknya kembali agar mau turun, pria itu ternyata sudah jatuh menghantam aspal.
+"saat dirinya naik dan berusaha memenuhi keinginan korban serta membujuknya kembali " tmp bukan adj
+
+Belakangan diketahui, pria yang mengakhiri hidupnya dengan cara bunuh diri di Alun-alun Bandung itu bernama Ciptadi yang berasal dari Kebumen dan berusia 54 tahun.
+"bernama Ciptadi yang berasal dari Kebumen dan berusia 54 tahun " tidak terdeteksi sbg verb, obj, dan adj
+
+Saksi mata lainnya, Rezha Noviana (27) mengatakan, dirinya bersama warga lainnya yang waktu itu selesai melaksanakan shalat Jum'at langsung mengarahkan pandangan ke JPO.
+"dirinya bersama warga lainnya yang waktu itu selesai melaksanakan shalat Jum at langsung mengarahkan pandangan ke JPO " anak kalimat tidak dilabeli dengan benar
+
+Saat itu terlihat beberapa anggota linmas dan petugas keamanan tengah berdialog dengan Ciptadi.
+"beberapa anggota linmas dan petugas keamanan tengah berdialog dengan Ciptadi " seharusnya jadi obj
+
+Sementara itu dalam sebuah video yang berhasil diabadikan salah satu warga bernama Bayu Prasetyo, lokasi jatuhnya pria tua yang bunuh diri di Alun-alun Bandung tampak dikerubuti para pengguna jalan yang melintas.
+"sementara itu" tmp bukan adj
+"lokasi jatuhnya pria tua yang bunuh diri di Alun-alun Bandung" seharusnya subj bukan bagian dari adj
+
+Bagaimana tidak, saat umat muslim sedang menjalankan ibadah puasa dan usai sholat Jum'at, seorang pria setengah berumur malah menjatuhkan diri dari JPO ramai itu.
+"Bagaimana tidak" seharusnya adj bukan verb
+
+Usahanya mengakhiri hidup berjalan sesuai keinginannya, sebab jembatan dengan tinggi 10-15 meter tersebut membuat ia terhempas dengan keras ke aspal di bawah.
+"Usahanya mengakhiri" subj
+"sesuai keinginannya" adj bukan obj
+
+Namun ia sepertinya tak menggubris dan tidak beranjak sama sekali.
+"dan tidak beranjak sama sekali" tidak dideteksi sbg obj dan adj
+
+Pelaku bunuh diri itu pun sempat hendak menulis sesuatu, karena ia meminta kertas dan bolpen pada Sudirman.
+"bunuh diri itu pun" bagian dari subj
+"sempat hendak menulis" verb
+"sesuatu" obj
+
+Namun saat hendak diberikan, ia malah sudah menjatuhkan diri.
+"saat hendak diberikan" tmp bukan adj
+
+Petugas dari kepolisian pun membawa jenasah pelaku bunuh diri itu ke RS Hasan Sadikin Bandung.
+"jenasah pelaku bunuh diri itu" obj seluruhnya
+
+Identitasnya masih belum diketahui, namun keluarga yang merasa kehilangan anggota keluarga diharap dapat segera melapor ke petugas.
+"namun keluarga yang merasa kehilangan anggota keluarga diharap dapat segera melapor ke petugas " anak kalimat namun dideteksi hanya sbg adj
+
+Karena cinta mungkin lalu depresi, seorang lelaki tanpa identitas nekat mengakhiri nyawanya sendiri di jembatan penyeberangan orang, yang berada di sekitar alun alun kota Bandung 1/7.
+"nekat mengakhiri" verb semua
+"di jembatan penyeberangan orang , yang berada di sekitar alun alun kota Bandung 1/7" loc bukan bagian dari obj

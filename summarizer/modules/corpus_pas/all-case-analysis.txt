@@ -1,0 +1,48 @@
+Mistakes:
+
+Ibu mengirimi Andi uang setiap bulan.
+"setiap bulan" dideteksi sebagai obj seharusnya tmp
+
+Andi meminjam buku saya kemarin malam.
+tmp
+"kemarin malam" seharusnya tmp tetapi yang dideteksi hanya "kemarin"
+
+Saat ini, sekitar 5.000 pengungsi masih bertahan di pengungsian.
+"sekitar 5.000 pengungsi" seharusnya subj bukan adj
+
+Bahkan, Sabtu (20/4) pagi juga sempat terjadi gempa meski berskala kecil.
+"Sabtu (20/4) pagi" seharusnya tmp bukan subj
+"meski berskala kecil" seharusnya adj bukan obj
+
+Adi menerangkan, serentetan gempa terasa di wilayah Desa Rejosari sejak Jumat sekitar pukul 19.00 WIB sampai pukul 19.30 WIB.
+"serentetan gempa ..." seharusnya dideteksi sebagai anak kalimat tetapi malah menjadi adj
+
+Ia menyebutkan, sebelum jatuh, pelaku sempat meminta kertas dan pulpen.
+"pelaku sempat meminta kertas dan pulpen" seharusnya dideteksi sebagai anak kalimat bukan adj
+
+Ia mengungkapkan gedung yang berdiri di lahan seluas 1,5 hektare itu sengaja dirobohkan.
+"gedung yang berdiri di lahan seluas 1,5 hektare itu sengaja dirobohkan" seharusnya dideteksi sebagai anak kalimat bukan adj
+
+Ayi mengatakan, bangunan itu dibeli pihak Bank Panin dari Jaya Property sekitar 2000, karena ketika itu sedang krisis moneter.
+"dari Jaya Property sekitar 2000" seharusnya adj bukan obj
+
+Polisi akan melanjutkan pemeriksaan terhadap saksi-saksi soal robohnya gedung tua di Bintaro, Tangerang Selatan.
+"soal robohnya gedung tua di Bintaro, Tangerang Selatan" seharusnya adj bukan obj
+
+Sekretaris Perusahaan PT Angkasa Pura II Agus Haryadi juga mengatakan selaku pengelola Bandara Internasional Soekarno-Hatta, pihaknya akan berkoordinasi dengan Kantor Otoritas Bandara Wilayah I terkait dengan peristiwa ini.
+"pihaknya akan berkoordinasi dengan Kantor Otoritas Bandara Wilayah I terkait dengan peristiwa ini" seharusnya dideteksi sebagai anak kalimat bukan adj
+
+Suprasetyo menjelaskan, dengan peristiwa ini, pihaknya akan memberikan sanksi tegas kepada maskapai Lion Air.
+"pihaknya akan memberikan sanksi tegas kepada maskapai Lion Air" seharusnya dideteksi sebagai anak kalimat bukan adj
+
+Ia menduga pria tanpa identitas itu tengah depresi.
+"pria tanpa identitas itu tengah depresi" seharusnya dideteksi sebagai obj semua
+
+Pelaku bunuh diri itu pun sempat hendak menulis sesuatu, karena ia meminta kertas dan bolpen pada Sudirman.
+salah semua (parsernya)
+
+Pengungsi gempa di Dieng, Banjarnegara, Jawa Tengah (Jateng), mencapai 5.000 lebih.
+"5.000 lebih" seharusnya dideteksi sebagai obj
+
+Ia menduga pria tanpa identitas itu mengalami depresi.
+"pria tanpa identitas itu mengalami depresi" seharusnya dideteksi sebagai obj semua

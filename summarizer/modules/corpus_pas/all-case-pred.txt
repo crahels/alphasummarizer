@@ -1,0 +1,906 @@
+Saya sedang belajar .
+Saya SUBJ
+sedang VERB
+belajar VERB
+. O
+
+Korban gempa Dieng menerima bantuan .
+Korban SUBJ
+gempa SUBJ
+Dieng SUBJ
+menerima VERB
+bantuan OBJ
+. O
+
+Adik bermain piano .
+Adik SUBJ
+bermain VERB
+piano OBJ
+. O
+
+Saya tinggal di Bandung .
+Saya SUBJ
+tinggal VERB
+di LOC
+Bandung LOC
+. O
+
+Aku duduk di tanah setelah sampai di tepian danau .
+Aku SUBJ
+duduk VERB
+di LOC
+tanah LOC
+setelah TMP
+sampai TMP
+di TMP
+tepian TMP
+danau TMP
+. O
+
+Budi menunggu di kursi hingga dijemput ayahnya .
+Budi SUBJ
+menunggu VERB
+di LOC
+kursi LOC
+hingga TMP
+dijemput TMP
+ayahnya TMP
+. O
+
+Dindingnya berlumut karena gardu itu tidak terawat .
+Dindingnya SUBJ
+berlumut VERB
+karena ADJ
+gardu ADJ
+itu ADJ
+tidak ADJ
+terawat ADJ
+. O
+
+Ibu mendendangkan adik sebuah lagu baru .
+Ibu SUBJ
+mendendangkan VERB
+adik OBJ
+sebuah OBJ
+lagu OBJ
+baru OBJ
+. O
+
+Rina membelikan kakek sepasang sepatu baru .
+Rina SUBJ
+membelikan VERB
+kakek OBJ
+sepasang OBJ
+sepatu OBJ
+baru OBJ
+. O
+
+Victor mempelajari bahasa Mandarin semenjak berumur lima tahun .
+Victor SUBJ
+mempelajari VERB
+bahasa OBJ
+Mandarin OBJ
+semenjak TMP
+berumur TMP
+lima TMP
+tahun TMP
+. O
+
+Adik melukis pegunungan di atas kertas .
+Adik SUBJ
+melukis VERB
+pegunungan OBJ
+di LOC
+atas LOC
+kertas LOC
+. O
+
+Ibu mengirimi Andi uang setiap bulan .
+Ibu SUBJ
+mengirimi VERB
+Andi OBJ
+uang OBJ
+setiap OBJ
+bulan OBJ
+. O
+
+Andi meminjam buku saya kemarin malam .
+Andi SUBJ
+meminjam VERB
+buku OBJ
+saya OBJ
+kemarin TMP
+malam VERB
+. O
+
+Pak Budi marah karena saya tidak mengerjakan tugas .
+Pak SUBJ
+Budi SUBJ
+marah VERB
+karena ADJ
+saya ADJ
+tidak ADJ
+mengerjakan ADJ
+tugas ADJ
+. O
+
+Saat itu saya sedang makan siang .
+Saat TMP
+itu TMP
+saya SUBJ
+sedang VERB
+makan VERB
+siang OBJ
+. O
+
+Saya telah menyelesaikan video game baru itu .
+Saya SUBJ
+telah VERB
+menyelesaikan VERB
+video OBJ
+game OBJ
+baru OBJ
+itu OBJ
+. O
+
+Surat itu ditulis oleh adik saya .
+Surat SUBJ
+itu SUBJ
+ditulis VERB
+oleh ADJ
+adik ADJ
+saya ADJ
+. O
+
+Surat itu ditulis adik saya .
+Surat SUBJ
+itu SUBJ
+ditulis VERB
+adik OBJ
+saya OBJ
+. O
+
+Kau tinggal di sini atau pergi dengan saya .
+Kau SUBJ
+tinggal VERB
+di LOC
+sini LOC
+atau O
+pergi O
+dengan O
+saya O
+. O
+
+Kau tinggal di sini atau pergi dengan saya .
+Kau SUBJ
+tinggal O
+di O
+sini O
+atau O
+pergi VERB
+dengan ADJ
+saya ADJ
+. O
+
+Aku duduk dan teringat akan kampung halamanku .
+Aku SUBJ
+duduk VERB
+dan O
+teringat O
+akan O
+kampung O
+halamanku O
+. O
+
+Aku duduk dan teringat akan kampung halamanku .
+Aku SUBJ
+duduk O
+dan O
+teringat VERB
+akan ADJ
+kampung ADJ
+halamanku ADJ
+. O
+
+Sedangkan di Kabupaten Batang hanya ada satu posko pengungsian , yaitu di kantor Kecamatan Bawang .
+Sedangkan ADJ
+di LOC
+Kabupaten LOC
+Batang LOC
+hanya VERB
+ada VERB
+satu OBJ
+posko OBJ
+pengungsian OBJ
+, O
+yaitu LOC
+di LOC
+kantor LOC
+Kecamatan LOC
+Bawang LOC
+. O
+
+Saat ini , sekitar 5.000 pengungsi masih bertahan di pengungsian .
+Saat TMP
+ini TMP
+, O
+sekitar ADJ
+5.000 ADJ
+pengungsi ADJ
+masih VERB
+bertahan VERB
+di LOC
+pengungsian LOC
+. O
+
+Bahkan , Sabtu ( 20/4 ) pagi juga sempat terjadi gempa meski berskala kecil .
+Bahkan ADJ
+, O
+Sabtu SUBJ
+( SUBJ
+20/4 SUBJ
+) SUBJ
+pagi SUBJ
+juga VERB
+sempat VERB
+terjadi VERB
+gempa OBJ
+meski OBJ
+berskala OBJ
+kecil OBJ
+. O
+
+Salah seorang warga di Dieng Kulon bernama Alif Rahman mengungkapkan bahwa ada dua desa yang mengungsi ke Dieng Kulon di antaranya Kepakisan dan Karang Tengah .
+Salah SUBJ
+seorang SUBJ
+warga SUBJ
+di SUBJ
+Dieng SUBJ
+Kulon SUBJ
+bernama SUBJ
+Alif SUBJ
+Rahman SUBJ
+mengungkapkan VERB
+bahwa ADJ
+ada ADJ
+dua ADJ
+desa ADJ
+yang ADJ
+mengungsi ADJ
+ke ADJ
+Dieng ADJ
+Kulon ADJ
+di ADJ
+antaranya ADJ
+Kepakisan ADJ
+dan ADJ
+Karang ADJ
+Tengah ADJ
+. O
+
+Adi menerangkan , serentetan gempa terasa di wilayah Desa Rejosari sejak Jumat sekitar pukul 19.00 WIB sampai pukul 19.30 WIB .
+Adi SUBJ
+menerangkan VERB
+, O
+serentetan ADJ
+gempa ADJ
+terasa ADJ
+di ADJ
+wilayah ADJ
+Desa ADJ
+Rejosari ADJ
+sejak ADJ
+Jumat ADJ
+sekitar ADJ
+pukul ADJ
+19.00 ADJ
+WIB ADJ
+sampai ADJ
+pukul ADJ
+19.30 ADJ
+WIB ADJ
+. O
+
+Serentetan gempa terasa di wilayah Desa Rejosari sejak Jumat sekitar pukul 19.00 WIB sampai pukul 19.30 WIB .
+Serentetan SUBJ
+gempa SUBJ
+terasa VERB
+di LOC
+wilayah LOC
+Desa LOC
+Rejosari LOC
+sejak TMP
+Jumat TMP
+sekitar TMP
+pukul TMP
+19.00 TMP
+WIB TMP
+sampai TMP
+pukul TMP
+19.30 TMP
+WIB TMP
+. O
+
+Wakil Bupati Banjarnegara Hadi Supeno mengungkapkan bahwa gempa terasa di tiga kabupaten yakni Banjarnegara , Batang , dan Wonosobo .
+Wakil SUBJ
+Bupati SUBJ
+Banjarnegara SUBJ
+Hadi SUBJ
+Supeno SUBJ
+mengungkapkan VERB
+bahwa ADJ
+gempa ADJ
+terasa ADJ
+di ADJ
+tiga ADJ
+kabupaten ADJ
+yakni ADJ
+Banjarnegara ADJ
+, ADJ
+Batang ADJ
+, ADJ
+dan ADJ
+Wonosobo ADJ
+. O
+
+Gempa terasa di tiga kabupaten yakni Banjarnegara , Batang , dan Wonosobo .
+Gempa SUBJ
+terasa VERB
+di LOC
+tiga LOC
+kabupaten LOC
+yakni LOC
+Banjarnegara LOC
+, LOC
+Batang LOC
+, LOC
+dan LOC
+Wonosobo LOC
+. O
+
+Warga lain di sekitar lokasi pun nampak berkerumun menyaksikan pria malang itu sudah bersimbah darah dengan posisi tertelungkup .
+Warga SUBJ
+lain SUBJ
+di SUBJ
+sekitar SUBJ
+lokasi SUBJ
+pun SUBJ
+nampak VERB
+berkerumun VERB
+menyaksikan VERB
+pria OBJ
+malang OBJ
+itu OBJ
+sudah OBJ
+bersimbah OBJ
+darah OBJ
+dengan OBJ
+posisi OBJ
+tertelungkup OBJ
+. O
+
+Ia menyebutkan , sebelum jatuh , pelaku sempat meminta kertas dan pulpen .
+Ia SUBJ
+menyebutkan VERB
+, O
+sebelum TMP
+jatuh TMP
+, O
+pelaku ADJ
+sempat ADJ
+meminta ADJ
+kertas ADJ
+dan ADJ
+pulpen ADJ
+. O
+
+Saksi mata anggota linmas Satpol PP Kota Bandung , Sudirman , berkisah bahwa si pria sempat duduk di billboard iklan selama 1 jam sebelum akhirnya menjatuhkan diri .
+Saksi SUBJ
+mata SUBJ
+anggota SUBJ
+linmas SUBJ
+Satpol SUBJ
+PP SUBJ
+Kota SUBJ
+Bandung SUBJ
+, SUBJ
+Sudirman SUBJ
+, SUBJ
+berkisah VERB
+bahwa ADJ
+si ADJ
+pria ADJ
+sempat ADJ
+duduk ADJ
+di ADJ
+billboard ADJ
+iklan ADJ
+selama ADJ
+1 ADJ
+jam ADJ
+sebelum ADJ
+akhirnya ADJ
+menjatuhkan ADJ
+diri ADJ
+. O
+
+Kerjasama yang dijalin antara Indosat dan Fujitsu ini dilakukan untuk memenuhi kebutuhan pelanggan korporasi di Indonesia tetapi juga perusahaan-perusahaan Jepang yang beroperasi di Indonesia .
+Kerjasama SUBJ
+yang SUBJ
+dijalin SUBJ
+antara SUBJ
+Indosat SUBJ
+dan SUBJ
+Fujitsu SUBJ
+ini SUBJ
+dilakukan VERB
+untuk ADJ
+memenuhi ADJ
+kebutuhan ADJ
+pelanggan ADJ
+korporasi ADJ
+di ADJ
+Indonesia ADJ
+tetapi ADJ
+juga ADJ
+perusahaan-perusahaan ADJ
+Jepang ADJ
+yang ADJ
+beroperasi ADJ
+di ADJ
+Indonesia ADJ
+. O
+
+Indosat Ooredoo bersama Fujitsu Indonesia menandatangani Nota Kesepahaman dalam rangka memantapkan kemitraan dengan para pelanggan bisnis yang telah dibangun dan bekerja sama dalam menghadirkan solusi Smart Mobility dan Internet of Things ( IoT ) .
+Indosat SUBJ
+Ooredoo SUBJ
+bersama SUBJ
+Fujitsu SUBJ
+Indonesia SUBJ
+menandatangani VERB
+Nota OBJ
+Kesepahaman OBJ
+dalam ADJ
+rangka ADJ
+memantapkan ADJ
+kemitraan ADJ
+dengan ADJ
+para ADJ
+pelanggan ADJ
+bisnis ADJ
+yang ADJ
+telah ADJ
+dibangun ADJ
+dan ADJ
+bekerja ADJ
+sama ADJ
+dalam ADJ
+menghadirkan ADJ
+solusi ADJ
+Smart ADJ
+Mobility ADJ
+dan ADJ
+Internet ADJ
+of ADJ
+Things ADJ
+( ADJ
+IoT ADJ
+) ADJ
+. O
+
+Suprasetyo menjelaskan , tim gabungan tersebut terdiri atas Kementerian Perhubungan , Direktorat Jenderal Imigrasi , dan Ditjen Bea-Cukai .
+Suprasetyo SUBJ
+menjelaskan VERB
+, O
+tim SUBJ
+gabungan SUBJ
+tersebut SUBJ
+terdiri VERB
+atas ADJ
+Kementerian ADJ
+Perhubungan ADJ
+, ADJ
+Direktorat ADJ
+Jenderal ADJ
+Imigrasi ADJ
+, ADJ
+dan ADJ
+Ditjen ADJ
+Bea-Cukai ADJ
+. O
+
+Hingga 1 Mei 2016 lalu , beberapa bagian gedung mulai dibongkar oleh 15 pekerja yang dipimpin oleh mandor bernama Khairul Anwar .
+Hingga TMP
+1 TMP
+Mei TMP
+2016 TMP
+lalu TMP
+, O
+beberapa SUBJ
+bagian SUBJ
+gedung SUBJ
+mulai VERB
+dibongkar VERB
+oleh ADJ
+15 ADJ
+pekerja ADJ
+yang ADJ
+dipimpin ADJ
+oleh ADJ
+mandor ADJ
+bernama ADJ
+Khairul ADJ
+Anwar ADJ
+. O
+
+Ia mengungkapkan , gedung yang berdiri di lahan seluas 1,5 hektare itu sengaja dirobohkan .
+Ia SUBJ
+mengungkapkan VERB
+, O
+gedung ADJ
+yang ADJ
+berdiri ADJ
+di ADJ
+lahan ADJ
+seluas ADJ
+1,5 ADJ
+hektare ADJ
+itu ADJ
+sengaja ADJ
+dirobohkan ADJ
+. O
+
+Hingga saat ini , kepolisian masih memblokir akses di depan gedung milik Bank Panin yang roboh pada Kamis 2 Juni itu .
+Hingga TMP
+saat TMP
+ini TMP
+, TMP
+kepolisian SUBJ
+masih VERB
+memblokir VERB
+akses OBJ
+di OBJ
+depan OBJ
+gedung OBJ
+milik OBJ
+Bank OBJ
+Panin OBJ
+yang OBJ
+roboh OBJ
+pada OBJ
+Kamis OBJ
+2 OBJ
+Juni OBJ
+itu OBJ
+. O
+
+Ayi mengatakan , bangunan itu dibeli pihak Bank Panin dari Jaya Property sekitar 2000 , karena ketika itu sedang krisis moneter .
+Ayi SUBJ
+mengatakan VERB
+, O
+bangunan SUBJ
+itu SUBJ
+dibeli VERB
+pihak OBJ
+Bank OBJ
+Panin OBJ
+dari OBJ
+Jaya OBJ
+Property OBJ
+sekitar ADJ
+2000 OBJ
+, O
+karena ADJ
+ketika ADJ
+itu ADJ
+sedang ADJ
+krisis ADJ
+moneter ADJ
+. O
+
+Polisi akan melanjutkan pemeriksaan terhadap saksi-saksi soal robohnya gedung tua di Bintaro , Tangerang Selatan .
+Polisi SUBJ
+akan VERB
+melanjutkan VERB
+pemeriksaan OBJ
+terhadap OBJ
+saksi-saksi OBJ
+soal OBJ
+robohnya OBJ
+gedung OBJ
+tua OBJ
+di OBJ
+Bintaro OBJ
+, OBJ
+Tangerang OBJ
+Selatan OBJ
+. O
+
+Penutupan ini dilakukan untuk mengantisipasi terjadinya runtuh susulan yang dapat membahayakan warga sekitar .
+Penutupan SUBJ
+ini SUBJ
+dilakukan VERB
+untuk ADJ
+mengantisipasi ADJ
+terjadinya ADJ
+runtuh ADJ
+susulan ADJ
+yang ADJ
+dapat ADJ
+membahayakan ADJ
+warga ADJ
+sekitar ADJ
+. O
+
+Gedung kosong yang terletak tepat diperempatan lampu merah tersebut roboh sekitar pukul 15.00 Wib dan langsung menimbulkan debu yang berasal dari reruntuhan bangunan yang roboh tersebut .
+Gedung SUBJ
+kosong SUBJ
+yang SUBJ
+terletak SUBJ
+tepat SUBJ
+diperempatan SUBJ
+lampu SUBJ
+merah SUBJ
+tersebut SUBJ
+roboh VERB
+sekitar TMP
+pukul TMP
+15.00 TMP
+Wib TMP
+dan O
+langsung O
+menimbulkan O
+debu O
+yang O
+berasal O
+dari O
+reruntuhan O
+bangunan O
+yang O
+roboh O
+tersebut O
+. O
+
+Gedung kosong yang terletak tepat diperempatan lampu merah tersebut roboh sekitar pukul 15.00 Wib dan langsung menimbulkan debu yang berasal dari reruntuhan bangunan yang roboh tersebut .
+Gedung SUBJ
+kosong SUBJ
+yang SUBJ
+terletak SUBJ
+tepat SUBJ
+diperempatan SUBJ
+lampu SUBJ
+merah SUBJ
+tersebut SUBJ
+roboh O
+sekitar O
+pukul O
+15.00 O
+Wib O
+dan O
+langsung VERB
+menimbulkan VERB
+debu OBJ
+yang OBJ
+berasal OBJ
+dari OBJ
+reruntuhan OBJ
+bangunan OBJ
+yang OBJ
+roboh OBJ
+tersebut OBJ
+. O
+
+Kegagalan struktur dan kesalahan tes tanah yang mengakibatkan gedung miring juga terjadi pada Menara Saidah di Jalan MT Haryono , Jakarta Timur .
+Kegagalan SUBJ
+struktur SUBJ
+dan SUBJ
+kesalahan SUBJ
+tes SUBJ
+tanah SUBJ
+yang SUBJ
+mengakibatkan SUBJ
+gedung SUBJ
+miring SUBJ
+juga VERB
+terjadi VERB
+pada ADJ
+Menara ADJ
+Saidah ADJ
+di LOC
+Jalan LOC
+MT LOC
+Haryono LOC
+, LOC
+Jakarta LOC
+Timur LOC
+. O
+
+Sekretaris Perusahaan PT Angkasa Pura II Agus Haryadi juga mengatakan selaku pengelola Bandara Internasional Soekarno-Hatta , pihaknya akan berkoordinasi dengan Kantor Otoritas Bandara Wilayah I terkait dengan peristiwa ini .
+Sekretaris SUBJ
+Perusahaan SUBJ
+PT SUBJ
+Angkasa SUBJ
+Pura SUBJ
+II SUBJ
+Agus SUBJ
+Haryadi SUBJ
+juga VERB
+mengatakan VERB
+selaku ADJ
+pengelola ADJ
+Bandara ADJ
+Internasional ADJ
+Soekarno-Hatta ADJ
+, O
+pihaknya ADJ
+akan ADJ
+berkoordinasi ADJ
+dengan ADJ
+Kantor ADJ
+Otoritas ADJ
+Bandara ADJ
+Wilayah ADJ
+I ADJ
+terkait ADJ
+dengan ADJ
+peristiwa ADJ
+ini ADJ
+. O
+
+Pengakuan serupa disampaikan Kepala Biro Komunikasi dan Informasi Publik Kemenhub Hemi Pamuhardjo .
+Pengakuan SUBJ
+serupa SUBJ
+disampaikan VERB
+Kepala OBJ
+Biro OBJ
+Komunikasi OBJ
+dan OBJ
+Informasi OBJ
+Publik OBJ
+Kemenhub OBJ
+Hemi OBJ
+Pamuhardjo OBJ
+. O
+
+Suprasetyo menjelaskan , dengan peristiwa ini , pihaknya akan memberikan sanksi tegas kepada maskapai Lion Air .
+Suprasetyo SUBJ
+menjelaskan VERB
+, O
+dengan ADJ
+peristiwa ADJ
+ini ADJ
+, O
+pihaknya ADJ
+akan ADJ
+memberikan ADJ
+sanksi ADJ
+tegas ADJ
+kepada ADJ
+maskapai ADJ
+Lion ADJ
+Air ADJ
+. O
+
+Agus mengatakan , hal tersebut terjadi karena kesalahan prosedur penanganan kedatangan penumpang rute internasional pesawat bernomor penerbangan JT 161 rute Singapura-Jakarta .
+Agus SUBJ
+mengatakan VERB
+, O
+hal SUBJ
+tersebut SUBJ
+terjadi VERB
+karena ADJ
+kesalahan ADJ
+prosedur ADJ
+penanganan ADJ
+kedatangan ADJ
+penumpang ADJ
+rute ADJ
+internasional ADJ
+pesawat ADJ
+bernomor ADJ
+penerbangan ADJ
+JT ADJ
+161 ADJ
+rute ADJ
+Singapura-Jakarta ADJ
+. O
+
+15 menit setelah jatuh , pria itu dibawa ke Rumah Sakit Hasan Sadikin Bandung oleh aparat kepolisian .
+15 TMP
+menit TMP
+setelah TMP
+jatuh TMP
+, O
+pria SUBJ
+itu SUBJ
+dibawa VERB
+ke LOC
+Rumah LOC
+Sakit LOC
+Hasan LOC
+Sadikin LOC
+Bandung LOC
+oleh ADJ
+aparat ADJ
+kepolisian ADJ
+. O
+
+Ia menduga pria tanpa identitas itu tengah depresi .
+Ia SUBJ
+menduga VERB
+pria OBJ
+tanpa ADJ
+identitas ADJ
+itu ADJ
+tengah ADJ
+depresi ADJ
+. O
+
+Pelaku bunuh diri itu pun sempat hendak menulis sesuatu , karena ia meminta kertas dan bolpen pada Sudirman .
+Pelaku SUBJ
+bunuh VERB
+diri OBJ
+itu OBJ
+pun OBJ
+sempat ADJ
+hendak ADJ
+menulis ADJ
+sesuatu ADJ
+, O
+karena ADJ
+ia ADJ
+meminta ADJ
+kertas ADJ
+dan ADJ
+bolpen ADJ
+pada ADJ
+Sudirman ADJ
+. O
+
+Pengungsi gempa di Dieng , Banjarnegara , Jawa Tengah ( Jateng ) , mencapai 5.000 lebih .
+Pengungsi SUBJ
+gempa SUBJ
+di SUBJ
+Dieng SUBJ
+, SUBJ
+Banjarnegara SUBJ
+, SUBJ
+Jawa SUBJ
+Tengah SUBJ
+( SUBJ
+Jateng SUBJ
+) SUBJ
+, O
+mencapai VERB
+5.000 O
+lebih VERB
+. O
+
+Ia menduga pria tanpa identitas itu mengalami depresi .
+Ia SUBJ
+menduga VERB
+pria OBJ
+tanpa ADJ
+identitas ADJ
+itu ADJ
+mengalami ADJ
+depresi ADJ
+. O
+
+Pelaku sempat hendak menulis sesuatu , karena ia meminta kertas dan bolpen pada Sudirman .
+Pelaku SUBJ
+sempat VERB
+hendak VERB
+menulis VERB
+sesuatu OBJ
+, O
+karena ADJ
+ia ADJ
+meminta ADJ
+kertas ADJ
+dan ADJ
+bolpen ADJ
+pada ADJ
+Sudirman ADJ
+. O
+

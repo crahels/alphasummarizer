@@ -1,0 +1,116 @@
+.logo {
+    width: 20px;
+    height: 20px;
+}
+
+.navbar {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+.navbar-inner-container {
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    height: 100%;
+    align-items: center;
+    width: 50%;
+}
+
+.logo-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 5%;
+}
+
+.title-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.root-container {
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+}
+
+.row-container {
+    display: flex;
+    flex-direction: row;
+    margin: 20px;
+}
+
+.row-result-container {
+    display: flex;
+    flex-direction: row;
+    margin-left: 20px;
+}
+
+.row-rouge-container {
+    display: flex;
+    flex-direction: row;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.label-container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    width: 12%;
+    justify-content: flex-end;
+}
+
+.label-rouge-container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    width: 12%;
+}
+
+.content-container {
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+    margin-left: 10px;
+}
+
+.content-button-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin-left: 10px;
+}
+
+.result-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.summary-content-container {
+    display: flex;
+    flex-direction: row;
+    width: 80%;
+    margin-left: 10px;
+}
+
+.cand-container {
+    display: flex;
+    flex-direction: column;
+    width: 49%;
+}
+
+.ref-container {
+    display: flex;
+    flex-direction: column;
+    width: 49%;
+    margin-left: 2%;
+}
+
+.form-control[readonly].no-gray {
+    background-color:white;
+  }
